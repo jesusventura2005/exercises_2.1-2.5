@@ -1,0 +1,16 @@
+:root {
+    background-color: #151414 ;
+    color: #fff;
+}
+
+
+.Course {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+
+
+}
